@@ -36,7 +36,6 @@ pip install pandas scikit-learn matplotlib
 ## Usage
 1. **Download the Dataset**:
    - Obtain the dataset from [Kaggle](https://www.kaggle.com/datasets/devendra416/ddos-datasets).
-   - Place the `final_dataset.csv` file in the same directory as the notebook.
 
 2. **Run the Notebook**:
    - Open `Intrusion_Detection_Binary.ipynb` in Jupyter Notebook or any compatible environment.
